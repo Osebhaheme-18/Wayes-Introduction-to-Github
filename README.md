@@ -1,7 +1,7 @@
 # Wayes-Introduction-to-Github
 ## Introduction
 👋🏼 Hi everyone, My name is Osebahheme Etumah,this is the official Github account. I'm a member of the Data_Lovers Cohort.
-I'm a Data Analytics student with a background Human Resource, now pivoting into the data woorld.
+I'm a Data Analytics student with a background Human Resource, now pivoting into the data world.
 ## What am I Learning?
 I’m currently learning how to collect, clean, and visualize data using modern analytics tools like Power BI & Excel for reporting and creating interactive dashboards and SQL for querying and managing data. 
 ## My Goal
