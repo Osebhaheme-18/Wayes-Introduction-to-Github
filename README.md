@@ -7,6 +7,7 @@ I’m currently learning how to collect, clean, and visualize data using modern 
 ## My Goal
 - My goal is to combine my understanding of people and organizations with analytical tools to make smarter, data-driven decisions.
 - Strengthen my technical and analytical skills and transition to a Data Analyst role.
-
-  
+## 📫 Let's Connect
+- 📩 Email: wayeetumah@gmail.com
+- LinkedIn: www.linkedin.com/in/osebhaheme-etumah-357678199 
 
