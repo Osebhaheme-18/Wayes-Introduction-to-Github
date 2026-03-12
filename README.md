@@ -5,6 +5,7 @@
 I'm building hands-on skills in data collection, cleaning, and visualization using industry-standard tools:
 
 📊 Power BI & Excel — Reporting and interactive dashboard development
+
 🗄️ SQL — Querying and managing relational databases
 
 ## 🎯 My Goals
