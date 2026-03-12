@@ -12,6 +12,6 @@ I'm building hands-on skills in data collection, cleaning, and visualization usi
 Leverage my understanding of people and organizations to drive smarter, data-informed decisions
 Strengthen my technical and analytical capabilities to successfully transition into a Data Analyst role
 ## 📫 Let's Connect
-- 📩 Email: wayeetumah@gmail.com
+- 📩 Email: osebhahemee.etumah@gmail.com 
 - LinkedIn: www.linkedin.com/in/osebhaheme-etumah-357678199 
 
